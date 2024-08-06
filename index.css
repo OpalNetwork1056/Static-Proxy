@@ -49,7 +49,7 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
-#uv-register-sw {
+#regServiceWorker {
   color: white;
   background: #555555;
   cursor: pointer;
@@ -58,10 +58,9 @@ body {
   border-radius: 6px;
   padding: 16px 20px;
   line-height: 16px;
-  display: none;
 }
 
-#uv-register-sw:active {
+#regServiceWorker:active {
   background: #333333;
 }
 
